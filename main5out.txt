@@ -1,0 +1,24 @@
+
+Garbage Collector Statistics:
+Objects: 2056 || Bytes in use: 295232 || Bytes freed: 228816
+
+before: 3.14159
+after: 2.71719
+
+Garbage Collector Statistics:
+Objects: 2056 || Bytes in use: 295232 || Bytes freed: 228816
+
+before: 3.14159
+after: 2.71719
+
+Garbage Collector Statistics:
+Objects: 2056 || Bytes in use: 295232 || Bytes freed: 228816
+
+before: 3.14159
+after: 2.71719
+
+Garbage Collector Statistics:
+Objects: 2056 || Bytes in use: 295232 || Bytes freed: 228816
+
+before: 3.14159
+after: 2.71719
